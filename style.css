@@ -1,0 +1,16 @@
+.item {
+    background-color: rgb(21, 19, 31);
+    text-transform: uppercase;
+    color: whitesmoke;
+}
+
+hr{
+    height: 1px;
+    background-color: #ccc;
+    border: none;
+}
+
+#button:hover{
+    background-color: rgb(33, 18, 59);
+    color: rgb(253, 253, 253);
+}
